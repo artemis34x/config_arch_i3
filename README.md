@@ -1,0 +1,1 @@
+# first repo for my first rice on arch
